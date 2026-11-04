@@ -1,0 +1,8 @@
+build/
+.coverage
+.venv/
+__pycache__/
+env/
+.tox/
+dist/
+.pytest_cache/
